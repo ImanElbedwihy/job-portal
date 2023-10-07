@@ -1,0 +1,40 @@
+@media (min-width: 768px) {
+  .container {
+    width: 750px;
+  }
+  body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #fff;
+    background-size: 100%;
+    
+  
+  
+  }
+}
+/* Medium */
+@media (min-width: 992px) {
+  .container {
+    width: 970px;
+  }
+  body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #fff;
+    background-size: 100%;
+    
+  
+  
+  }
+}
+/* Large */
+@media (min-width: 1200px) {
+ 
+body{
+  font-family: 'Roboto', sans-serif;
+  background-image: url(../img/desk.jpg);
+  background-repeat: no-repeat;
+  background-size: 115%;
+  
+
+
+}
+}

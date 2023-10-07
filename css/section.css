@@ -1,0 +1,19 @@
+
+.card .card-body ul  :hover  {
+    background-color:rgb(204, 230, 239);
+
+
+
+}
+.card .card-body ul li :hover  {
+  background-color:transparent;
+
+
+
+}
+.list-group-item{
+  position:relative;
+
+}
+
+

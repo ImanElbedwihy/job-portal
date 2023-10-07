@@ -1,0 +1,121 @@
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Work Sans", sans-serif;
+}
+.container {
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-left: auto;
+  margin-right: auto;
+}
+/* Small */
+@media (min-width: 768px) {
+  .container {
+    width: 750px;
+  }
+}
+/* Medium */
+@media (min-width: 992px) {
+  .container {
+    width: 970px;
+  }
+}
+/* Large */
+@media (min-width: 1200px) {
+  .container {
+    width: 1170px;
+  }
+  .landing {
+    background-image: url(../img/work.jpg);
+    background-repeat: no-repeat;
+     background-size: cover;
+    height: calc(100vh - 85px);
+    position: relative; 
+  }
+}
+
+/* Start Header */
+.header {
+  padding: 10px;
+}
+.header .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.header .logo {
+  width: 80px;
+  height:75px;
+}
+
+.header .container .links a{
+  padding: 5px;
+  text-decoration: none;
+}
+.header .container .links .login{
+  font-weight: 500;
+  color: #088cc8;
+  font-size: 18px;
+}
+.header .container .links .join,
+.header .container .links .employer
+{
+  background-color: #088cc8;
+  color: white;
+  border-radius: 3px;
+  margin-left: 6px;
+}
+/* Start Header */
+/* Start Landing Section */
+
+.landing .intro-text h1 {
+  margin: 0;
+  font-weight: bolder;
+  font-size: 45px;
+  color: #088cc8;;
+  margin-left: 34%;
+
+ 
+}
+.landing .intro-text p {
+  font-size: 20px;
+  font-weight: 500;
+  color: #088cc8;;
+  margin-top: 8px;
+  margin-left: 25%;
+}
+
+
+/* End Landing Section */
+.footer{
+  display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #088cc8;
+}
+.footer p{
+  padding-left: 10px;
+    color: white;
+}
+.footer .followus{
+  padding-right: 25px;
+}
+.footer .followus p{
+  margin-top: 10px;
+  color: white;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+.footer .followus .icons{
+  padding-left: 10px;
+  margin-bottom: 10px;
+}
+.footer .followus .icons i{
+  color: white;
+  margin-right: 9px;
+}
