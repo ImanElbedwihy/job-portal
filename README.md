@@ -4,10 +4,10 @@
 a user-friendly web application that enable job seekers to search for suitable jobs and apply for it as well.
 Meanwhile, companies can announce vacant jobs/interns or
 freelance, coordinate interviews, and send offers  for potential employees.
-
+  
 ### Features 
 
-1. Sign up/Login /Logout /Change password for both job seeker and company.
+1. Sign up/Login /Logout /Change password for admin,job seeker and company.
 2. Job seekers can create/update/view profile .
 3. Job seekers can search for jobs .
 4. Job seekers can send or cancel a request .
@@ -20,8 +20,13 @@ freelance, coordinate interviews, and send offers  for potential employees.
 11. Company can create a contract with a freelancer .
 12. Company can search for potential employees and send job offers.
 13. Company can write a recommendation .
+14. Admin can delete company/job seeker account
+15. Admin can delete feedback .
+16. Admin can add another admin .
+17. Admin can edit company/job seeker profile .
+18. Admin can get statistics .
 
-   
+
 <h2 align='center' <a name = "Contributors"> ⭐ Contributors ⭐ </h2>
 <!-- readme: collaborators -start -->
 <table  align='center'> 
