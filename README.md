@@ -1,12 +1,10 @@
 <h1 align='center'>Job Portal Website</h1>
-
+<br />
 ### Description
 a user-friendly web application that enable job seekers to search for suitable jobs and apply for it as well.
 Meanwhile, companies can announce vacant jobs/interns or
 freelance, coordinate interviews, and send offers  for potential employees.
-
-
-
+<br />
 ### Features 
 
 1. Sign up/Login /Logout /Change password for both job seeker and company.
@@ -22,9 +20,8 @@ freelance, coordinate interviews, and send offers  for potential employees.
 11. Company can create a contract with a freelancer .
 12. Company can search for potential employees and send job offers.
 13. Company can write a recommendation .
-    
-
-
+<br />
+   
 <h2 align='center' <a name = "Contributors"> ⭐ Contributors ⭐ </h2>
 <!-- readme: collaborators -start -->
 <table  align='center'> 
