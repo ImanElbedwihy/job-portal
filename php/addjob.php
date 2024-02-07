@@ -117,7 +117,7 @@ if (!mysqli_stmt_prepare($stmt1, $sql1)) {
 
 
                         <div class="form-outline" style=" height: 44px;  ">
-                            <div><label style="font-weight: bolder;">years of experience required (otional) </label>
+                            <div><label style="font-weight: bolder;">years of experience required (optional) </label>
                             </div>
                             <input type="number" id="typeNumber" class="form-control" name="exp"
                                 style="width: 309px;    border: 1px solid #bdbdbd;">

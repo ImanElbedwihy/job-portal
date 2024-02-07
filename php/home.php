@@ -29,9 +29,9 @@ require_once '../includes/database.php';
     <div class="container">
       <img class="logo" src="../img/logo.png" alt="" />
       <div class="links" style="display: flex;">
-    <div>    <a class="login" href="sign-in.php">login</a></div>
-    <div>     <a class="join" href="user_signup.php">Join_now</a></div>
-    <div>    <a class="employer" href="companysignup.php">Employer?</a></div>
+        <div> <a class="login" href="sign-in.php">login</a></div>
+        <div> <a class="join" href="user_signup.php">Join_now</a></div>
+        <div> <a class="employer" href="companysignup.php">Employer?</a></div>
       </div>
     </div>
   </div>

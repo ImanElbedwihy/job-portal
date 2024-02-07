@@ -117,7 +117,7 @@ margin-bottom: 0.5%;" >
                       $username=$row['UserName'];
                   echo "<div>";
 
-                      echo "<button type='submit' style='margin-right:4%;'  class='btn btn-primary rounded-pill'value=' $username' name='submit'>Delete  </button>";
+                      echo "<button type='submit' style='margin-right:4%;'  class='btn btn-primary rounded-pill'value='$username' name='submit'>Delete  </button>";
 
                      echo "<button type='submit' style='margin-right:4%;' class='btn btn-primary rounded-pill'value='$username'name='submit1' >View Announcements  </button>";
                      
