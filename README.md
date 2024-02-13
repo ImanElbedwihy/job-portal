@@ -1,17 +1,29 @@
 <h1 align='center'>Job Portal Website</h1>
+ <img src="./screens/home.jpeg" width="1000;" />
 
-### Description
+
+## Description
 a user-friendly web application that enable job seekers to search for suitable jobs and apply for it as well.
 Meanwhile, companies can announce vacant jobs/interns or
 freelance, coordinate interviews, and send offers  for potential employees.
-  
-### Features 
 
-1. Sign up/Login /Logout /Change password for admin,job seeker and company.
-2. Job seekers can create/update/view profile .
-3. Job seekers can search for jobs .
-4. Job seekers can send or cancel a request .
-5. Job seekers can view requests status .
+## Viwes
+
+### 1.Admin
+1. Admin can view , delete or view statistics of any company account
+2. Admin can view or delete jobseeker account .
+3. Admin can delete feesdback of any jobseeker. <br>
+4. Admin can add another admin. <br>
+5. Admin can edit company/job seeker profile . <br>
+6. Admin can get statistics .
+
+### 2.Jobseeker
+1. Job seekers can create/update/view profile .
+2. Job seekers can search for jobs .
+3. Job seekers can send or cancel a request .
+4. Job seekers can view requests status .
+
+### 3.Company 
 6. Company can announce a job /intern/freelance .
 7. Company can delete an announcement .
 8. Company can view requests .
@@ -19,12 +31,8 @@ freelance, coordinate interviews, and send offers  for potential employees.
 10. Company can send feedback (when a request is refused) .
 11. Company can create a contract with a freelancer .
 12. Company can search for potential employees and send job offers.
-13. Company can write a recommendation .
-14. Admin can delete company/job seeker account
-15. Admin can delete feedback .
-16. Admin can add another admin .
-17. Admin can edit company/job seeker profile .
-18. Admin can get statistics .
+
+<br>
 
 
 <h2 align='center' <a name = "Contributors"> ⭐ Contributors ⭐ </h2>
